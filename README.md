@@ -1,4 +1,12 @@
 # Rest-API website
+
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Best-README-Template</h3>
  web-site include +js
 # About project 
 here we will testing API-keys and same learn js on free-templates or framework's
@@ -7,7 +15,6 @@ here we will testing API-keys and same learn js on free-templates or framework's
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lew3l1&label=Profile%20views&color=0e75b6&style=flat" alt="lew3l1" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
