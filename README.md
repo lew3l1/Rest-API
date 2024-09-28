@@ -1,15 +1,28 @@
-# Rest-API website
 
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="140" height="140">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
- web-site include +js
+  <h3 align="center">WebSite RestAPI</h3>
+   <p align="center">
+    Just testing the site with some of the features.
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
+
+  
 # About project 
 here we will testing API-keys and same learn js on free-templates or framework's
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 <h3 align="center">A team project realising</h3>
 
